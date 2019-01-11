@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SerialPrortTest_api</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="error_configuration">请先配置串口</string>
+    <string name="error_security">你没有读或写串口的权限</string>
+    <string name="error_unknown">这个串口没有找到</string>
+
+</resources>
